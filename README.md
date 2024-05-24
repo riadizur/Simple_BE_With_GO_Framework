@@ -18,6 +18,7 @@ The Step of Instruction :
 CODE STRUCTURE Will be provided :
 
 CODE STRUCTURE
+ ![alt text](https://github.com/riadizur/Simple_BE_With_GO_Framework/blob/main/code_structure.png)
 
 kubota-gasoline-api/
 ├── cmd/
