@@ -19,6 +19,7 @@ CODE STRUCTURE Will be provided :
  ![alt text](https://github.com/riadizur/Simple_BE_With_GO_Framework/blob/main/code_structure.png)
 
 kubota-gasoline-api/
+├── .env
 ├── cmd/
 │   └── main.go
 ├── db/
