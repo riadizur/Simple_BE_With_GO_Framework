@@ -1,8 +1,8 @@
 # Get all library
 go mod tidy
 
-# Set environment variables for Windows 64-bit
+# Build the executable
 go build -o kubota-gasoline-api ./cmd
 
-# Build the Windows executable
+# Run the executable
 ./kubota-gasoline-api
