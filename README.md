@@ -15,6 +15,9 @@ Whether you're a seasoned Go developer or just getting started with the language
 The Step of Instruction :
 1. Prepare workspace with running shell install.sh to providing Folder and Initiation GO Workspaces.
 CODE STRUCTURE Will be provided :
+
+CODE STRUCTURE
+
 kubota-gasoline-api/
 ├── cmd/
 │   └── main.go
